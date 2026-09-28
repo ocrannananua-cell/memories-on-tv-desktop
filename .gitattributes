@@ -1,0 +1,11 @@
+*.jpg binary
+docs/* linguist-vendored
+src/*.ts linguist-detectable
+*.tsx linguist-detectable   
+
+*.min.css linguist-generated
+*.yml linguist-detectable=false
+
+docs/index.html linguist-vendored
+vendor/* linguist-vendored
+# eof e3e4b07a
