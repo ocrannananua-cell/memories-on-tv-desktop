@@ -1,0 +1,6 @@
+coverage/
+.next/
+node_modules/
+build/
+.cache/
+yarn-error.log*
